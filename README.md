@@ -2,6 +2,7 @@
 2. Praktiskais darbs studiju kursā "Ievads Mākslīgajā intelektā"
 
 Refference to the data source:
+http://archive.ics.uci.edu/ml/datasets/seeds#
 
 MaÅ‚gorzata Charytanowicz, Jerzy Niewczas
 Institute of Mathematics and Computer Science,
